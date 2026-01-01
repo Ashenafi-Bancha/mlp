@@ -39,8 +39,8 @@ mlp/
 
 ### 1️. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/mlp-xor.git
-cd mlp-xor
+git clone https://github.com/Ashenafi-Bancha/mlp.git
+cd mlp
 ```
 ### 2️. Create a Virtual Environment (Optional but Recommended)
 
@@ -62,6 +62,6 @@ source venv/bin/activate
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python mlp_xor.py
+python mlp.py
 
 ```
