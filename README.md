@@ -1,4 +1,4 @@
-# Multilayer Perceptron (MLP) from Scratch
+# Multilayer Perceptron (MLP) → Feedforward network with backpropagation 
 
 This project implements a Multilayer Perceptron using Python and NumPy only.
 The network is trained using feedforward propagation and backpropagation
